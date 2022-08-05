@@ -26,7 +26,7 @@ inviting you and your family to Shanthala's wedding to be held on **5th November
 
 ```js
 
-const newCouple = 'Shanthala & Gagan';
+const newCouple = 'Shanthala & Govardhan';
 
 // Nov 29, 2020
 const weddingDate = new Date(2022, 11, 5);
