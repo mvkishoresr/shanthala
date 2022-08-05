@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to Shanthala's wedding to be held on **5th November at [T Narsipura](https://goo.gl/maps/yBr59SuKBcvWCXo39), Mysore, Karnataka from 7:00 PM** onwards.
 
-- [Download](https://github.com/mvkishoresr/shanthala/blob/main/assets/pdf/Shanthala%20%26%20Govardhan.pdf) the Invitation card
+- [Download](https://github.com/mvkishoresr/shanthala/raw/main/assets/pdf/Shanthala%20%26%20Govardhan.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/yBr59SuKBcvWCXo39) on Google map
 
