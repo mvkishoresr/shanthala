@@ -2,7 +2,7 @@
 <p align="center"><a href="https://shanthala.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://shanthala.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 5, 2022 <br> <a href="https://shanthala.netlify.app/">shanthala.netlify.app</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mvkishoresr/shanthala?logo=github)](https://shanthala.netlify.app/) [![![Netlify Status](https://api.netlify.com/api/v1/badges/8fac0f04-5519-41c7-8e81-149911221dc9/deploy-status)](https://app.netlify.com/sites/shanthala/deploys)[![GitHub license](https://img.shields.io/github/license/mvkishoresr/shanthala?logo=github)](https://github.com/mvkishoresr/shanthala)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mvkishoresr/shanthala?logo=github)](https://shanthala.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/8fac0f04-5519-41c7-8e81-149911221dc9/deploy-status)](https://app.netlify.com/sites/shanthala/deploys) [![GitHub license](https://img.shields.io/github/license/mvkishoresr/shanthala?logo=github)](https://github.com/mvkishoresr/shanthala)
 
 ## Wedding Invitation :ring:
 
@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to Shanthala's wedding to be held on **5th November at [T Narsipura](https://goo.gl/maps/yBr59SuKBcvWCXo39), Mysore, Karnataka from 7:00 PM** onwards.
 
-- [Download](https://github.com/mvkishoresr/shanthala/raw/main/assets/pdf/Shanthala%20%26%20Govardhan.pdf) the Invitation card
+- [Download](https://github.com/mvkishoresr/mvkishoresr/raw/master/docs/Shanthala%20%26%20Govardhan.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/yBr59SuKBcvWCXo39) on Google map
 
@@ -26,7 +26,7 @@ inviting you and your family to Shanthala's wedding to be held on **5th November
 
 ```js
 
-const newCouple = 'Shanthala & Govardhan';
+const newCouple = 'Shanthala & Gagan';
 
 // Nov 29, 2020
 const weddingDate = new Date(2022, 11, 5);
