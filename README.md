@@ -24,7 +24,7 @@ inviting you and your family to Shanthala's wedding to be held on **5th November
 
 - See the [Tweet](https://twitter.com/narendramodi)
 
-```js
+<!-- ```js
 
 const newCouple = 'Shanthala & Govardhan';
 
@@ -44,9 +44,9 @@ const weddingVenue = new Location('T Narsipura, Mysore');
 })();
 
 
-```
+``` -->
 
-## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
+<!-- ## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
 > Feel free to use this template to build your wedding website!
 
 To reuse this, follow the steps:
@@ -74,7 +74,7 @@ var countDownDate = new Date("Nov 5, 2022 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@Narendra_Modi](https://twitter.com/narendramodi)) :yellow_heart:
+Tag me to share your wedding story on Twitter([@Narendra_Modi](https://twitter.com/narendramodi)) :yellow_heart: -->
 
 <br><sup><i>With warm regards,<br>
 **Kishore MVSR**<i></sup><br>
