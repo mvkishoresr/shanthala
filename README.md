@@ -2,7 +2,7 @@
 <p align="center"><a href="https://shanthala.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://shanthala.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 5, 2022 <br> <a href="https://shanthala.netlify.app/">shanthala.netlify.app</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mvkishoresr/shanthala?logo=github)](https://shanthala.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/shanthala/deploys) [![GitHub license](https://img.shields.io/github/license/mvkishoresr/shanthala?logo=github)](https://github.com/mvkishoresr/shanthala)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mvkishoresr/shanthala?logo=github)](https://shanthala.netlify.app/) [![![Netlify Status](https://api.netlify.com/api/v1/badges/8fac0f04-5519-41c7-8e81-149911221dc9/deploy-status)](https://app.netlify.com/sites/shanthala/deploys)[![GitHub license](https://img.shields.io/github/license/mvkishoresr/shanthala?logo=github)](https://github.com/mvkishoresr/shanthala)
 
 ## Wedding Invitation :ring:
 
