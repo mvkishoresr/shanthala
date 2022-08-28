@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://shanthala.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://shanthala.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 5, 2022 <br> <a href="https://shanthala.netlify.app/">shanthala.netlify.app</a></h1>
+<h1 align="center"><a href="https://shanthala.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 19, 2022 <br> <a href="https://shanthala.netlify.app/">shanthala.netlify.app</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mvkishoresr/shanthala?logo=github)](https://shanthala.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/8fac0f04-5519-41c7-8e81-149911221dc9/deploy-status)](https://app.netlify.com/sites/shanthala/deploys) [![GitHub license](https://img.shields.io/github/license/mvkishoresr/shanthala?logo=github)](https://github.com/mvkishoresr/shanthala)
 
@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to Shanthala's wedding to be held on **5th November at [T Narsipura](https://goo.gl/maps/yBr59SuKBcvWCXo39), Mysore, Karnataka from 7:00 PM** onwards.
+inviting you and your family to Shanthala's wedding to be held on **20th November at [T Narsipura](https://goo.gl/maps/yBr59SuKBcvWCXo39), Mysore, Karnataka from 7:00 PM** onwards.
 
 - [Download](https://github.com/mvkishoresr/mvkishoresr/raw/master/docs/Shanthala%20%26%20Govardhan.pdf) the Invitation card
 
@@ -28,8 +28,8 @@ inviting you and your family to Shanthala's wedding to be held on **5th November
 
 const newCouple = 'Shanthala & Govardhan';
 
-// Nov 29, 2020
-const weddingDate = new Date(2022, 11, 5);
+// Nov 19, 2022
+const weddingDate = new Date(2022, 11, 19);
 
 // Wedding venue: https://goo.gl/maps/yBr59SuKBcvWCXo39
 const weddingVenue = new Location('T Narsipura, Mysore');
@@ -55,7 +55,7 @@ To reuse this, follow the steps:
 
 ```js
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 5, 2022 00:00:00").getTime();
+var countDownDate = new Date("Nov 19, 2022 00:00:00").getTime();
 ```
 
 - *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/mvkishoresr/shanthala/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
@@ -77,5 +77,5 @@ var countDownDate = new Date("Nov 5, 2022 00:00:00").getTime();
 Tag me to share your wedding story on Twitter([@Narendra_Modi](https://twitter.com/narendramodi)) :yellow_heart: -->
 
 <br><sup><i>With warm regards,<br>
-**Kishore MVSR**<i></sup><br>
+**Shanthala Swamy**<i></sup><br>
 [![Twitter Follow @Narendra_Modi](https://img.shields.io/twitter/follow/narendramodi?style=social)](https://twitter.com/narendramodi)
