@@ -12,17 +12,17 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to Shanthala's wedding to be held on **20th November at [T Narsipura](https://goo.gl/maps/yBr59SuKBcvWCXo39), Mysore, Karnataka from 7:00 PM** onwards.
+inviting you and your family to Shanthala's wedding to be held on **19th November at [T Narsipura](https://g.page/courtyardhebbal?share), Bengaluru, Karnataka from 7:00 PM** onwards.
 
 - [Download](https://github.com/mvkishoresr/mvkishoresr/raw/master/docs/Shanthala%20%26%20Govardhan.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/yBr59SuKBcvWCXo39) on Google map
+- Find [venue](https://g.page/courtyardhebbal?share) on Google map
 
 - Visit the [website](https://shanthala.netlify.app/) for more details
 
 - See the Facebook [post](https://www.facebook.com/shanthala.swamy.3)
 
-- See the [Tweet](https://twitter.com/narendramodi)
+<!-- See the [Tweet](https://twitter.com/narendramodi) -->
 
 <!-- ```js
 
@@ -78,4 +78,4 @@ Tag me to share your wedding story on Twitter([@Narendra_Modi](https://twitter.c
 
 <br><sup><i>With warm regards,<br>
 **Shanthala Swamy**<i></sup><br>
-[![Twitter Follow @Narendra_Modi](https://img.shields.io/twitter/follow/narendramodi?style=social)](https://twitter.com/narendramodi)
+<!--[![Twitter Follow @Narendra_Modi](https://img.shields.io/twitter/follow/narendramodi?style=social)](https://twitter.com/narendramodi)-->
