@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to Shanthala's wedding to be held on **19th November at [T Narsipura](https://g.page/courtyardhebbal?share), Bengaluru, Karnataka from 7:00 PM** onwards.
 
-- [Download](https://github.com/mvkishoresr/mvkishoresr/raw/master/docs/Shanthala%20%26%20Govardhan.pdf) the Invitation card
+- [Download](https://github.com/mvkishoresr/mvkishoresr/raw/master/docs/Shanthala%20&%20Govardhan.pdf) the Invitation card
 
 - Find [venue](https://g.page/courtyardhebbal?share) on Google map
 
